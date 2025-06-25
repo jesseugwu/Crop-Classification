@@ -1,0 +1,2 @@
+The python file contains the loading, data exploration and crop recommendation model using Naïve bayes, Decision tree, SVM and Random forest classifier. 
+Each model has its accuracy identified and compared.
